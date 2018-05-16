@@ -1,5 +1,5 @@
-Warhammer 40,000 8th Edition
-============================
+Warhammer 40,000 8th Edition - German
+=====================================
 
 ## Important ##
 [Important]: #important
